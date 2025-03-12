@@ -1,4 +1,4 @@
-# This is the boatbod fork of op25.  
+# This is the W1JPI fork of op25. It is a copy of the boatbod fork as of 3/12/2025 and I intend to implement NBFM squelch algorithms based on the work of PA3FWM https://www.pa3fwm.nl/technotes/tn16e.html
 
 Capabilities are broadly categorized into two lists - those supported by the legacy `rx.py` version of the app and those by the newer `multi_rx.py` version.  I recommend using `multi_rx.py` where at all possible as this is the focus of future development.
 
